@@ -1,5 +1,3 @@
-Certainly! Below is a combined README.md file that includes the features of the code along with the introduction:
-
 ---
 
 # Bank Management System
