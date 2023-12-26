@@ -39,7 +39,7 @@ Thank you for exploring my work!
 1. Clone the repository:
 
    ```bash
-   git clone https://https://github.com/hellaanxiouss/Bank-Management-System-V1.git
+   git clone https://github.com/hellaanxiouss/Bank-Management-System-V1.git
    ```
 
 2. Compile the code:
