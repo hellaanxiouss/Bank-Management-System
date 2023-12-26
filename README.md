@@ -45,13 +45,13 @@ Thank you for exploring my work!
 2. Compile the code:
 
    ```bash
-   g++ main.cpp -o bank_management_system
+   g++ main.cpp -o Bank-Management-System-V1
    ```
 
 3. Run the executable:
 
    ```bash
-   ./bank_management_system
+   ./Bank-Management-System-V1
    ```
 
 4. Follow the on-screen instructions to navigate through the Bank Management System.
